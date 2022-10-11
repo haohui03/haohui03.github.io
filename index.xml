@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Haohui Ye</title>
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Haohui Ye</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu54bf30810fdb7de1ad2448db050f3e5e_1231_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>Haohui Ye</title>
       <link>https://example.com/</link>
     </image>
     
